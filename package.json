@@ -1,0 +1,10 @@
+{
+  "name": "logpi",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Publish Your Knowledge Products Safely and Quickly Using Logseq",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
